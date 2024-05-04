@@ -29,6 +29,13 @@ To start the application locally:
 
 Compile the Java files inside the `src/main/java/movielisting` directory and launch the application, run the `MovieListingApp` class.
 
+## Sample Output
+
+-[# Check this File](https://github.com/RaiyanMahin/WSD-Coding-Challenge/blob/main/Sample%20Output.pdf)
+
+Feel free to explore and extend the application for additional features and improvements.
+
+
 ## Contributor
 
 👤 **Raiyan Bashir Mahin**
