@@ -17,13 +17,19 @@ This is a simple movie app where users can register with their email address and
 
 - **Unique Email**: Ensure no duplicate emails are allowed for registration.
 - **Sorting**: Searched matching movies should be returned in ascending order of movie title.
+- **Unique Movie Add to the List**: Ensure no duplicate movie is added to list.
 - **Empty Favorites**: Users cannot search or remove movies if their favorites list is empty.
+- **Unique Movie Add to Favorites List**: Ensure no duplicate movie is added to favorites list.
 - **Valid Index**: When adding movies to favorites, ensure the input index is valid.
 - **Clear Messages**: Display only relevant and clear messages at each step of the process.
 
 ## Constraints
 
 - No database is used in this implementation.
+
+
+## Dependencies
+- Java 8 or higher
 
 ## Running the Code
 
