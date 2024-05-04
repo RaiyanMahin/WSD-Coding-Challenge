@@ -9,7 +9,9 @@ This is a simple movie app where users can register with their email address and
 - **View Movie Details**: Users can view details for any movie including title, cast, category, release date, and budget.
 - **Favorites**: Users can add movies to their favorites and remove movies from their favorites.
 - **Personal Details**: Users can view their personal details and the movies they've added to their favorites.
+- **Add Favorites**: Users can add movies to their favorites.
 - **Search Favorites**: Users can search only movies they've added to their favorites.
+- **Remove Favorites**: Users can remove movies they've added to their favorites.
 
 ## Implementation Considerations
 
